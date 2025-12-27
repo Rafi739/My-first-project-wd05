@@ -27,7 +27,7 @@ body{
 }
 
 .done {
-  color: blue;
+  color: yellow;
   font-size: 30px;
   animation: showtext 1s forwards;
   animation-delay: 3s;
